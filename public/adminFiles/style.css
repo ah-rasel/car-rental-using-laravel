@@ -1,0 +1,47 @@
+.slug-left {
+    padding: .375rem .75rem !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    color: #0f7be7 !important;
+    text-align: left !important;
+    background-color: #ffffff00 !important;
+    border: none !important;
+}
+
+.slug-input{
+    color: red;
+    padding: 0;
+    border: none;
+}
+.cursor-pointer1{
+    cursor: pointer !important;
+}
+.text-white{
+    color: white !important;
+}
+div.car-details-class div div.note-editing-area .note-editable{
+    min-height: 250px !important;
+}
+.w-10{
+    width: 10% !important;
+}
+img#blah.image-upload{
+    max-width:270px;
+    height: 250px;
+  }
+
+img#blah2.image-upload{
+    max-width:270px;
+    height: 250px;
+  }
+  input[type=file]{
+      max-width: 270px;
+  }
+
+
+  div.brand-details-class div div.note-editing-area .note-editable{
+    min-height: 170px !important;
+}
+.sliders-modal{
+    margin-top: -24px !important;
+}
