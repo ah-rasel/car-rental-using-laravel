@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c96f06a5-2960-4316-95c6-6946f5cab69e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/brands/R7lmHY4WSIwwwspvgJAr3gwJaKRxOPYqXY9Nl3TC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/brands/tEtww6m7cvDm6iTCiQ3NyFMoclILW0hVMFitK2ev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/ReviewSection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/ReviewSection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/userviews/profile-page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/userviews/profile-page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/admin-all-cars.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/admin-all-cars.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/dashboard-countcards.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/dashboard-countcards.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/review-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/review-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +165,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts/adminviews" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -238,6 +242,8 @@
       <workItem from="1617808047938" duration="7692000" />
       <workItem from="1617853993862" duration="2465000" />
       <workItem from="1617886648796" duration="1414000" />
+      <workItem from="1618059044229" duration="991000" />
+      <workItem from="1618977883336" duration="3509000" />
     </task>
     <servers />
   </component>

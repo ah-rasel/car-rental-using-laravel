@@ -21,7 +21,7 @@
         </div>
     @endforeach
 
-{{--    @auth--}}
+    @auth
 
         <div class="bg-light p-2 mb-5">
 
@@ -62,7 +62,7 @@
             </form>
 
         </div>
-{{--    @else--}}
+    @else
 
 
         <div class="bg-light p-2 mb-5">
@@ -70,6 +70,6 @@
             <div class="mt-2 text-right"><button class="btn btn-primary btn-sm shadow-none disabled" type="button">Please Login to Post Review<i class="fa fa-lock ml-3"></i></button></div>
         </div>
 
-{{--    @endauth--}}
+    @endauth
 
 </div>

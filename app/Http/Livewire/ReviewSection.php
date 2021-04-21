@@ -28,7 +28,7 @@ class ReviewSection extends Component
         'review_text'=>$data['review_text'],
         'review_point'=>$data['review_value'],
         'car_id'=>$this->car->id,
-        'user_id'=>9,
+        'user_id'=>auth()->id(),
         ]);
         $this->review_text ='';
         $this->review_value =null;

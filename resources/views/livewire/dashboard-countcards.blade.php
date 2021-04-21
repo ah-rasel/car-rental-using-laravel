@@ -10,7 +10,7 @@
             <div class="icon">
                 <i class="fa fa-car-alt"></i>
             </div>
-            <a href="all-cars.html" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{route('admin.cars')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->
@@ -25,7 +25,7 @@
             <div class="icon">
                 <i class="fa fa-list-alt"></i>
             </div>
-            <a href="all-brands.html" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{route('admin.brands')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->
@@ -40,7 +40,7 @@
             <div class="icon">
                 <i class="ion ion-person-add"></i>
             </div>
-            <a href="new-rent-request.html" class="small-box-footer text-white">
+            <a href="#" class="small-box-footer text-white">
                 More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
@@ -56,7 +56,7 @@
             <div class="icon">
                 <i class="fa fa-user-alt"></i>
             </div>
-            <a href="users.html" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{route('admin.users')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->

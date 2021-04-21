@@ -2,9 +2,9 @@
     <div class="col-12">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">ALl Cars</h3>
-
+                <h3 class="card-title mr-5">ALl Cars</h3><span class=""><a href="{{route('admin.new.car')}}">Add New Car</a></span>
                 <div class="card-tools">
+
                     <div class="input-group input-group-sm" style="width: 150px;">
                         <input type="text" wire:model="search" name="table_search" class="form-control float-right" placeholder="Search">
 

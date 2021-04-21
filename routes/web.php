@@ -50,7 +50,7 @@ Route::group(['middleware' => 'auth'], function() {
         Route::get('/brand/{id}/edit',[DashboardController::class,'EditBrand'])->name('admin.update.brand');
 
         Route::get('/cars/all',[DashboardController::class,'ViewCars'])->name('admin.cars');
-        Route::get('/new/car',[DashboardController::class,'ViewCars'])->name('admin.new.car');
+        Route::get('/new/car',[DashboardController::class,'AddNewCar'])->name('admin.new.car');
 
         Route::view('/sliders','layouts.adminviews.all_sliders')->name('admin.sliders');
 
